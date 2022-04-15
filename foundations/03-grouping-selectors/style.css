@@ -1,0 +1,11 @@
+.funique, .sunique{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.funique{
+    background-color: black;
+    color: white;
+}
+.sunique{
+    background-color: yellow;
+}
